@@ -1,5 +1,5 @@
 {
-  "name": "serverless_demo",
+  "name": "serverless_using_sam",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
